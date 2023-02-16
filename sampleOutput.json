@@ -1,0 +1,1306 @@
+{
+"status": "ok",
+"totalResults": 154,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "Hipertextual"
+},
+"author": "Ebenizer Pinedo",
+"title": "Apple retrasa la presentación de sus gafas de realidad mixta, pero solo un par de meses",
+"description": "Las gafas de realidad mixta son el próximo gran producto que introducirá Apple al mercado. Sin embargo, el dispositivo se ha enfrentado a múltiples obstáculos que han perjudicado su calendario. Ahora, Mark Gurman, periodista de Bloomberg y la fuente más confi…",
+"url": "http://hipertextual.com/2023/02/apple-retrasa-presentacion-gafas-de-realidad-mixta",
+"urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/01/gafas-realidad-mixta-apple-scaled.jpeg",
+"publishedAt": "2023-02-16T00:59:21Z",
+"content": "Las gafas de realidad mixta son el próximo gran producto que introducirá Apple al mercado. Sin embargo, el dispositivo se ha enfrentado a múltiples obstáculos que han perjudicado su calendario. Ahora… [+3277 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gigazine.net"
+},
+"author": "@GIGAZINE",
+"title": "AppleやNetflixなどの大企業も使用するオープンソースライブラリ「core-js」をたった1人で維持する開発者が「もう限界だ」と支援を求める",
+"description": "オープンソースのJavaScriptライブラリである「core-js」は、古いブラウザでもJavaScriptの最新機能を使えるようにするPolyfill(ポリフィル)として強い人気を誇り、オープンソースのJavaScriptトランスコンパイラであるBabelにも組み込まれています。AppleやNetflix、Spotify、Pornhubといった大企業を含む多くのウェブサイトに利用されている「core-js」のメンテナンスをたった1人で行う開発者のDenis Pushkarev(zloirock)氏が、ついに家…",
+"url": "https://gigazine.net/news/20230216-core-js-open-source-last-chance/",
+"urlToImage": "https://i.gzn.jp/img/2023/02/16/core-js-open-source-last-chance/00.jpg",
+"publishedAt": "2023-02-16T04:00:00Z",
+"content": "JavaScriptcore-jsJavaScriptPolyfill()JavaScriptBabelAppleNetflixSpotifyPornhubcore-js1Denis Pushkarev(zloirock)GitHub\r\ncore-js/2023-02-14-so-whats-next.md at master · zloirock/core-js · GitHubhttps:/… [+901 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "heise online"
+},
+"author": "Frank Schräer",
+"title": "Oppo Find N2 Flip: Ein neues Flip-Phone mit äußerem Zweitdisplay für 1000 Euro",
+"description": "Das aufklappbare Android-Smartphone mit innerem 6,8-Zoll-Display basiert auf MediaTeks Dimensity 9000 Plus Chip. Es konkurriert mit Samsungs Galaxy Z Flip4.",
+"url": "https://www.heise.de/news/Oppo-Find-N2-Flip-Ein-neues-Flip-Phone-mit-aeusserem-Zweitdisplay-fuer-1000-Euro-7517026.html",
+"urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/2/5/5/2/Oppo_Find_N2_Flip_Cover-2099cf5935811954.webp",
+"publishedAt": "2023-02-16T02:43:00Z",
+"content": "Oppo bringt mit dem \"Find N2 Flip\" ein neues Klapphandy auf den europäischen Markt. Dieses sogenannte Flip-Phone verfügt außen über einen Zweitbildschirm, auf dem im eingeklappten Zustand etwa Nachri… [+2920 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "9to5Mac"
+},
+"author": "Filipe Espósito",
+"title": "Here’s why Apple delaying the launch of its mixed reality headset is a good thing",
+"description": "We’ve been waiting for Apple’s mixed reality headset for a long time. Apple hasn’t even officially announced the device, but there have been a lot of rumors about it floating around the web. While analysts had been claiming that the product would be introduce…",
+"url": "https://9to5mac.com/2023/02/15/apple-delaying-mixed-reality-headset-good-thing/",
+"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/apple-march-event-headset.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2023-02-16T00:33:18Z",
+"content": "We’ve been waiting for Apple’s mixed reality headset for a long time. Apple hasn’t even officially announced the device, but there have been a lot of rumors about it floating around the web. While an… [+3522 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "9to5Mac"
+},
+"author": "Chance Miller",
+"title": "Plex launches new feature for skipping TV show and movie credits, available on Apple TV and iOS",
+"description": "Plex is out with a new feature that lets you easily skip the ending credits for any TV show or movie. Called “Credits Detection,” this is designed to let you quickly move on to the next episode of a TV show or find post-credit content. Here’s how it works.\n m…",
+"url": "https://9to5mac.com/2023/02/15/plex-credit-detections-feature-apple-tv/",
+"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/plex-credits-detection.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2023-02-16T02:29:48Z",
+"content": "Plex is out with a new feature that lets you easily skip the ending credits for any TV show or movie. Called Credits Detection, this is designed to let you quickly move on to the next episode of a TV… [+2149 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "9to5Mac"
+},
+"author": "Filipe Espósito",
+"title": "TikTok has been working on shopping features while Instagram does the exact opposite",
+"description": "TikTok and Instagram have become competitors as both platforms have been investing heavily in short vertical videos. However, both platforms offer more than that – and while Instagram has decided to move away from offering shopping experiences, TikTok is now …",
+"url": "https://9to5mac.com/2023/02/15/tiktok-shopping-features/",
+"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/TikTok-shopping.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2023-02-16T02:25:57Z",
+"content": "TikTok and Instagram have become competitors as both platforms have been investing heavily in short vertical videos. However, both platforms offer more than that and while Instagram has decided to mo… [+1879 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (Thomas Sibilly)",
+"title": "Audio Technica ATH-M50x Review: Still great in 2023",
+"description": "The Audio Technica ATH-M50x is a now-classic, well-performing set of over-the-ear, studio-wired headphones that come in under $200.Audio Technica covers everything from microphones to headphones and turntables for quality audio experiences. Their headphone co…",
+"url": "https://appleinsider.com/articles/23/02/16/audio-technica-ath-m50x-review-still-great-in-2023",
+"urlToImage": "https://photos5.appleinsider.com/gallery/52860-105811-IMG_3134-xl.jpg",
+"publishedAt": "2023-02-16T00:35:14Z",
+"content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe Audio Technica ATH-M50x is a now-classic, well-performing set of over-the-ear, studio-wired headphones … [+4091 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gizmodo.jp"
+},
+"author": "福田ミホ",
+"title": "Google、Android版プライバシーサンドボックスのベータ版公開",
+"description": "Google（グーグル）がAndroid 版プライバシーサンドボックスのベータ版を公開しました。これは、企業による個人データ取り放題の状態を改善するためにGoogleが長年取り組んでいる活動の一環です。",
+"url": "https://www.gizmodo.jp/2023/02/google-android-launches-privacy-sandbox-chrome-cookies.html",
+"urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/02/16/230215_googletracking.jpg?w=1280&h=630&f=jpg",
+"publishedAt": "2023-02-16T03:30:00Z",
+"content": "Cookie\r\nGoogleAndroid \r\nGoogle\r\nGoogle\r\nWeb\r\nGoogleAnthony Chavez\r\nAndroid \r\nGoogleGoogleChromeCookieAndroid\r\nAndroid 13\r\nAndroid\r\nAndroid OSGoogle\r\nWeb\r\nGoogle\r\nGoogle\r\nGoogleGoogle\r\nGoogleGoogle\r\nG… [+605 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Pitchfork"
+},
+"author": "Evan Minsker",
+"title": "Fiona Apple Narrates and Scores New Court Watching PSA: Watch",
+"description": "“Court watching is really the gateway to a better community, a better world, because it will make you care.”",
+"url": "https://pitchfork.com/news/fiona-apple-narrates-and-scores-new-court-watching-psa-watch/",
+"urlToImage": "https://media.pitchfork.com/photos/63ed9ff2589919a844be7424/16:9/w_1280,c_limit/fiona-apple.jpg",
+"publishedAt": "2023-02-16T03:23:30Z",
+"content": "Fiona Apple, an outspoken advocate of court watching, has provided new instrumental music for a new short film for the National Courtwatch Network. Apple also narrates and offers testimonials from he… [+614 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "IndieWire"
+},
+"author": "Jude Dry",
+"title": "Oscars 2023: The Best Animated Shorts Nominees, Ranked",
+"description": "Idris Elba and Gabriel Byrne voice some kindly animals, but the real standout is Pamela Ribon's frisky feminist comedy \"My Year of Dicks.\"",
+"url": "https://www.indiewire.com/2023/02/oscars-2023-best-animated-shorts-nominees-ranked-1234810439/",
+"urlToImage": "https://www.indiewire.com/wp-content/uploads/2022/12/MYOD-Un-Gros-Penis-02.jpg?w=780",
+"publishedAt": "2023-02-16T00:00:46Z",
+"content": "Outside of the occasional festival screening, Oscar season is often the only time many filmgoers engage with short film, so the nominees better make it count. An Oscar nomination means greater visibi… [+7136 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ifanr.com"
+},
+"author": "何, 嘉昕",
+"title": "早报 | 腾讯回应微信下场做外卖/马斯克将推文优先级提高 1000 倍/苹果头显再跳票",
+"description": "OpenAI 雇佣多位前 Google AI 研究人员\nChatGPT 大火或将导致GPU 显卡再度短缺#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+"url": "https://www.ifanr.com/1535581",
+"urlToImage": "https://s3.ifanr.com/wp-content/uploads/2023/02/2-18.jpg",
+"publishedAt": "2023-02-16T00:22:37Z",
+"content": "<ul><li> 1000 </li><li></li><li></li><li></li><li></li><li>OpenAI Google AI </li><li>ChatGPT GPU </li><li> ChatGPT iPhone </li><li> 20 </li><li> ROG 7 Plus </li><li> X75 5G </li><li></li><li> OATSIDE… [+1498 chars]"
+},
+{
+"source": {
+"id": "al-jazeera-english",
+"name": "Al Jazeera English"
+},
+"author": "Al Jazeera",
+"title": "US Republicans subpoena Big Tech CEOs over censorship claims",
+"description": "House Judiciary Committee writes to top Silicon Valley executives amid claims conservative speech is being suppressed.",
+"url": "https://www.aljazeera.com/economy/2023/2/16/us-republicans-subpoena-big-tech-ceos-over-censorship-claims",
+"urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/02/2020-06-24T000000Z_1405934907_RC2UFH98KH11_RTRMADP_3_USA-CONGRESS-JUSTICE.jpg?resize=1920%2C1440",
+"publishedAt": "2023-02-16T00:59:11Z",
+"content": "United States legislators have subpoenaed top tech executives for documents and communications as part of a Republican bid to show collusion between Silicon Valley and Washington to suppress the free… [+2025 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "9to5google.com"
+},
+"author": "Ben Schoon",
+"title": "YouTube Kids is coming to main YouTube app on game consoles, smart TVs, Roku",
+"description": "YouTube Kids has been around for a few years now, and the service is now expanding to more smart TVs through an update to the core YouTube app. The biggest advantage of this is that, finally, YouTube Kids will be available on more popular platforms, including…",
+"url": "https://9to5google.com/2023/02/15/youtube-kids-roku-console-smart-tv/",
+"urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2018/12/youtube_kids_logo1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2023-02-16T03:16:52Z",
+"content": "YouTube Kids has been around for a few years now, and the service is now expanding to more smart TVs through an update to the core YouTube app. The biggest advantage of this is that, finally, YouTube… [+2226 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "SlashGear"
+},
+"author": "staff@slashgear.com (Nadeem Sarwar)",
+"title": "Apple's Mixed-Reality Headset Launch Reportedly Pushed Back To Later In 2023",
+"description": "The saga of Apple&amp;#39;s keenly awaited XR headset has been beset with delays. Fortunately, this latest one isn&amp;#39;t major and the waiting may be close to over.",
+"url": "https://www.slashgear.com/1201297/apples-mixed-reality-headset-launch-reportedly-pushed-back-to-later-in-2023/",
+"urlToImage": "https://www.slashgear.com/img/gallery/apples-mixed-reality-headset-launch-reportedly-pushed-back-to-later-in-2023/l-intro-1676506526.jpg",
+"publishedAt": "2023-02-16T00:18:59Z",
+"content": "Now, it appears that Apple has nixed the spring launch plans and will reportedly reveal its mixed-reality headset in June this year at WWDC. Bloomberg's Mark Gurman cites unnamed internal sources in … [+890 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Itmedia.co.jp"
+},
+"author": "ITmedia",
+"title": "三井住友カード、スマホのタッチ決済で10％還元キャンペーン　マクドナルド、サイゼリヤなど飲食店で",
+"description": "三井住友カードは2月15日から、複数の飲食店を対象とし、スマホのタッチ決済の利用で最大10％を還元するキャンペーンを実施する。3月15日まで。",
+"url": "https://www.itmedia.co.jp/news/articles/2302/16/news081.html",
+"urlToImage": "https://image.itmedia.co.jp/news/articles/2302/16/cover_news081.png",
+"publishedAt": "2023-02-16T00:40:00Z",
+"content": "21510315\r\nApple PayGoogle PayVisaMastercard\r\n5\r\n200V20110005\r\nCopyright © ITmedia, Inc. All Rights Reserved."
+},
+{
+"source": {
+"id": null,
+"name": "Olhardigital.com.br"
+},
+"author": "Rodrigo Mozelli",
+"title": "Justiça dos EUA intensifica investigação antitruste contra Apple",
+"description": "Empresa é acusada de competição injusta por ter hardwares e softwares fechados\nO post Justiça dos EUA intensifica investigação antitruste contra Apple apareceu primeiro em Olhar Digital.",
+"url": "https://olhardigital.com.br/2023/02/15/pro/justica-dos-eua-intensifica-investigacao-antitruste-contra-apple/",
+"urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/01/shutterstock_1921988555-2.jpg",
+"publishedAt": "2023-02-16T01:14:40Z",
+"content": "O Departamento de JustiÃ§a dos EUA intensificou nos Ãºltimos meses sua longa investigaÃ§Ã£o antitruste sobre a Apple, informou o Wall Street Journal na quarta-feira (15).\r\nA Reuters informou anterior… [+5151 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "3dnews.ru"
+},
+"author": null,
+"title": "Apple задержит дебют гарнитуры дополненной реальности до июня",
+"description": "Держащий руку на пульсе событий внутри Apple Марк Гурман (Mark Gurman) со страниц Bloomberg в очередной раз сообщает о переносе сроков формального дебюта первого устройства дополненной реальности Apple, которое фигурирует под кодовым обозначением N301. Ещё не…",
+"url": "https://3dnews.ru/1082043/apple-zadergit-debyut-garnituri-dopolnennoy-realnosti-do-iyunya",
+"urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/02/16/1082043/meta_quest.jpg",
+"publishedAt": "2023-02-16T02:14:00Z",
+"content": "Apple (Mark Gurman) Bloomberg Apple, N301. , , . , .\r\nMeta* Quest 2. : Meta*\r\n, , Apple , . — Bloomberg , - , . N301 WWDC, . , .\r\n, M2, 4K $3000, . - Apple , .\r\n* , , 25.07.2002 114- « »."
+},
+{
+"source": {
+"id": null,
+"name": "Netafull.net"
+},
+"author": "コグレマサト",
+"title": "Appleが「MacBook 12インチ」を復活させるという噂",
+"description": "12インチはマジックワード。個人的にはPowerBook G4 12インチの時代から、12インチというサイズを愛しています。 AppleInsiderがリーカーの情報として、Appleが「MacBook 12インチ」を復...\n投稿 Appleが「MacBook 12インチ」を復活させるという噂 は ネタフル に最初に表示されました。",
+"url": "https://netafull.net/macbook/0125584.html",
+"urlToImage": "https://netafull.net/wp-content/uploads/2023/02/macbook-12-rumor.jpg",
+"publishedAt": "2023-02-16T02:00:00Z",
+"content": "12PowerBook G4 1212\r\nAppleInsiderAppleMacBook 12Apple's 12-inch MacBook may be coming closer to a rebirth\r\nA new rumor from a generally accurate leaker claims that Apple might be planning to bring ba… [+158 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "PC Gamer"
+},
+"author": "tyler.colp@pcgamer.com (Tyler Colp)",
+"title": "Genshin Impact developer's next game draws 2M sign-ups as its launch nears",
+"description": "Honkai: Star Rail offers a whole new cast of anime characters to crush on.",
+"url": "https://www.pcgamer.com/genshin-impact-developers-next-game-draws-2m-sign-ups-as-its-launch-nears/",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/zQMHvp7xsBnqQRARHJmS8c-1200-80.jpg",
+"publishedAt": "2023-02-16T01:07:00Z",
+"content": "Take Genshin Impact, make it turn-based, and crank the anime dial up to 11 and you have Honkai: Star Rail, the next game from MiHoYo.\r\nThe free-to-play game just entered its final beta and the dates … [+2186 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Daily Beast"
+},
+"author": "Sam Rosenberg",
+"title": "‘Family Guy’ Has Become Peak Queer TV—Seriously",
+"description": "Photo Illustration by Erin O’Flynn/The Daily Beast/Fox\r\nOf all the TV shows to have come out in the past 25 years, Family Guy is the last one you would think gay people would associate themselves with. Since its debut in 1999, the long-running irreverent anim…",
+"url": "https://www.thedailybeast.com/obsessed/family-guy-why-gay-twitter-is-obsessed-with-the-crass-sitcom",
+"urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1676427438/230214-rosenberg-family-guy-queer-hero_kqo6hj",
+"publishedAt": "2023-02-16T00:01:52Z",
+"content": "Of all the TV shows to have come out in the past 25 years, Family Guy is the last one you would think gay people would associate themselves with. Since its debut in 1999, the long-running irreverent … [+8879 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Twistedsifter.com"
+},
+"author": "Matthew Gilligan",
+"title": "12 People Talk About Who They Think Is the Closest Person Alive to a Modern-Day Einstein",
+"description": "\"Ian Goodfellow has consistently pioneered ML and AI research\"",
+"url": "https://twistedsifter.com/2023/02/12-people-talk-about-who-they-think-is-the-closest-person-alive-to-a-modern-day-einstein/",
+"urlToImage": "https://twistedsifter.com/wp-content/uploads/2023/02/Untitled-Design-6-1.png",
+"publishedAt": "2023-02-16T00:23:47Z",
+"content": "Are there some modern-day Einsteins out there among us right now?\r\nThere has to be, right?\r\nWell, we’re gonna get to the bottom of that right now…\r\nTake a look at what folks had to say about this on … [+4555 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macitynet.it"
+},
+"author": "Mauro Notarianni",
+"title": "Disponibile aggiornamento a macOS Big Sur 11.7.4",
+"description": "L'update a macOS Big Sur 11.7.4 risolve un problema che impediva di visualizzare le favicon nei preferiti di Safari.\n- su macitynet.it Disponibile aggiornamento a macOS Big Sur 11.7.4",
+"url": "https://www.macitynet.it/disponibile-aggiornamento-a-macos-big-sur-11-7-4/",
+"urlToImage": "https://www.macitynet.it/wp-content/uploads/2020/11/installerbigsur.jpg",
+"publishedAt": "2023-02-16T03:22:34Z",
+"content": "Apple ha rilasciato l’aggiornamento a macOS Big Sur 11.7.4, update minore per macOS Big Sur disponibile per quanti non sono ancora passati/non possono passare a macOS Monterey o macOS Ventura.\r\nApple… [+1171 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Sspai.com"
+},
+"author": "少数派编辑部",
+"title": "派早报：联想小新发布 2023 新品、高通推出骁龙 X75 芯片等",
+"description": "Geekbench 6 发布、Mac 版 Dropbox 将不再支持同步外部设备数据等。查看全文",
+"url": "https://sspai.com/post/78346",
+"urlToImage": "https://cdn.sspai.com/16/02/2023/article/899b0fc4-5bbc-723e-f0e2-d4e4f9216ea0.jpg",
+"publishedAt": "2023-02-16T00:29:56Z",
+"content": "2023 \r\n2 15 2023 \r\n Pro 14 16 i7-13700H 32GB Nvidia RTX 305014 RTX 405016 1TB 14 5499 16 7299 \r\n Pro 14 \r\nAir 14 2.8K 120Hz 13 P 16GB 1TB 17 5499 \r\n Air \r\n14 16 13 P 16GB 1TB 14 4799 16 4999 \r\n 14 \r\n… [+466 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macsparky.com"
+},
+"author": "David Sparks",
+"title": "Initial Impressions of ReplyCube (MacSparky Labs)",
+"description": "With Apple’s security restrictions, new Apple Mail plugins are pretty rare these days. In this video, I kick the tires on ReplyCube and share what works, and what doesn’t… This is a post for MacSparky Labs Members only. Care to join? Or perhaps do you need to…",
+"url": "https://www.macsparky.com/blog/2023/02/initial-impressions-of-replycube-macsparky-labs/",
+"urlToImage": null,
+"publishedAt": "2023-02-16T03:06:06Z",
+"content": "With Apple’s security restrictions, new Apple Mail plugins are pretty rare these days. In this video, I kick the tires on ReplyCube and share what works, and what doesn’t\r\nThis is a post for MacSpark… [+68 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Livedoor.jp"
+},
+"author": "itsoku",
+"title": "【悲報】Apple「インドに生産拠点を移して脱中国します」→50%が不良品へ…",
+"description": "1:それでも動く名無し 2023/02/16(木) 09:55:43.65 ID:MwANaoMor\nアップルは新型コロナ禍のもとで工場の操業停止が相次いだことや、台湾をめぐる地政学的なリスクを織り込んで、中国からインドに生産拠点の移転を急いでいるとみられている。だが、インド企業が製造したiPho...",
+"url": "http://blog.livedoor.jp/itsoku/archives/60207172.html",
+"urlToImage": "https://livedoor.blogimg.jp/itsoku/imgs/6/4/64f5b7fe-s.png",
+"publishedAt": "2023-02-16T02:10:22Z",
+"content": "1: 2023/02/16() 09:55:43.65 ID:MwANaoMor\r\niPhone50 \r\nFinancial TimesHosuriPhone21iPhoneFoxconn \r\n50\r\nhttps://news.yahoo.co.jp/articles/b50816014a0ae4b985b95800756d6d0577bd4c3e\r\n2: 2023/02/16() 09:56:… [+2544 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "Steven Vago, Allie Griffin",
+"title": "‘Reclusive’ MSU shooter Anthony McRae couldn’t hold down a job after losing mom, girlfriend: dad",
+"description": "\"The devil is busy and sometimes in life you don't know what's on your kid's mind and what they're thinking,\" Michael McRae said of his son Anthony.",
+"url": "https://nypost.com/2023/02/15/msu-shooter-anthony-mcrae-couldnt-hold-down-a-job-after-losing-mom-dad/",
+"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/NYPICHPDPICT000006738988.jpg?quality=75&strip=all&w=1024",
+"publishedAt": "2023-02-16T04:37:15Z",
+"content": "LANSING, Michigan — The Michigan State University shooter turned into a recluse who couldn’t hold down a job after the death of his mother, his father said Wednesday — while blaming the devil for his… [+2761 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "MobileSyrup"
+},
+"author": "Karandeep Oberoi",
+"title": "Mozilla CEO talks about a future without WebKit requirement",
+"description": "Earlier this month, it was reported that with the antitrust pressure against Apple growing in the UK, the UK’s Competition and Markets Authority is considering classifying the tech giant’s WebKit requirement as ‘anticompetitive.’ Competing browsers like Googl…",
+"url": "https://mobilesyrup.com/2023/02/15/mozilla-ceo-talks-about-a-future-without-webkit-requirement/",
+"urlToImage": "https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/firefox-header.jpg",
+"publishedAt": "2023-02-16T01:03:39Z",
+"content": "Earlier this month, it was reported that with the antitrust pressure against Apple growing in the UK, the UKs Competition and Markets Authority is considering classifying the tech giant’s WebKit requ… [+1504 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Bringatrailer.com"
+},
+"author": "bringatrailer",
+"title": "BaT Auction: 2001 BMW 750iL 6-Speed at No Reserve",
+"description": "This 2001 BMW 750iL is a long-wheelbase sedan powered by a 5.4-liter V12, and it has been modified with a six-speed manual transmission. It was acquired by its current owner in 2009, and subsequent work included the transmission conversion as well as the inst…",
+"url": "https://bringatrailer.com/listing/2001-bmw-750il-21/",
+"urlToImage": "https://bringatrailer.com/wp-content/uploads/2023/01/2001_bmw_750il_20221118_160211_resized-90350.jpg",
+"publishedAt": "2023-02-16T00:25:05Z",
+"content": "This 2001 BMW 750iL is a long-wheelbase sedan powered by a 5.4-liter V12, and it has been modified with a six-speed manual transmission. It was acquired by its current owner in 2009, and subsequent w… [+4194 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "DIE WELT"
+},
+"author": "Anja Ettel, Nando Sommerfeldt",
+"title": "Lufthansa-Fail und lukrative Luxus-Aktien",
+"description": "In der heutigen Folge „Alles auf Aktien“ sprechen die Finanzjournalisten Anja Ettel und Nando Sommerfeldt über eine reüssierende Gamer-Aktie, sehr starke Cisco-Zahlen und das Universalgenie Pharrell Williams.",
+"url": "https://www.welt.de/podcasts/alles-auf-aktien/article243793315/Alles-auf-Aktien-Ferrari-LVMH-Hilton-die-lukrativsten-Luxus-Aktien.html",
+"urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile236727889/4421353967-ci16x9-w1200/DWO-Podcast-Teaser-AllesaufAktien-Nando-Ettl.jpg",
+"publishedAt": "2023-02-16T03:59:50Z",
+"content": "Außerdem geht es um TSMC, Paramount Global, Roblox, Cisco Systems, LVMH, Siemens, ishares Global Infrastructure (A0LEW9), SPDR Morningstar Multi Asset Global Infrastructure (A12EAR), ishares Smart Ci… [+483 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Vnexpress.net"
+},
+"author": "Huy Đức",
+"title": "Vỏ iPhone sản xuất tại Ấn Độ kém chất lượng",
+"description": "Chỉ 50% số vỏ iPhone sản xuất tại Ấn Độ được cho là đạt tiêu chuẩn, khiến kế hoạch mở rộng sản xuất của Apple gặp khó khăn.",
+"url": "https://vnexpress.net/vo-iphone-san-xuat-tai-an-do-kem-chat-luong-4571105.html",
+"urlToImage": "https://vcdn1-sohoa.vnecdn.net/2023/02/15/iphone-14-opens-from-back-jpeg-6052-3378-1676480136.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=psH5cPKsAGxh_WBIO8ExOg",
+"publishedAt": "2023-02-16T04:28:38Z",
+"content": "Ch 50% s v iPhone sn xut ti n c cho là t tiêu chun, khin k hoch m rng sn xut ca Apple gp khó khn.Theo Financial Times, nhà máy Tata thành ph Hosur bt u sn xut th nghim v iPhone. Tuy nhiên, trung bình… [+1321 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gihyo.jp"
+},
+"author": "傍島康雄（そばじまやすお）",
+"title": "パスワードが必要のない世界「パスキー」がやってきた",
+"description": "今、パスワードをなくす取り組みが進められており、トレンドはApple、Google、Microsoftがサポートを表明する「パスキー（Passkeys）」です。今回はこの「パスキー」について紹介します。",
+"url": "https://gihyo.jp/article/2023/02/android-weekly-topics-230216",
+"urlToImage": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png",
+"publishedAt": "2023-02-16T00:00:00Z",
+"content": "1Password500WebWeb\r\nAppleGoogleMicrosoft\r\nPasskeys⁠⁠\r\nGoogle2022128\r\nGoogle Chrome 108\r\nAndroidGoogle Chrome\r\nChromium Blog: Introducing passkeys in Chrome\r\nWeb\r\n2\r\nWeb\r\nPIN\r\nWebURL\r\nWebAuthn.\r\nioGoo… [+247 chars]"
+},
+{
+"source": {
+"id": "independent",
+"name": "Independent"
+},
+"author": "Tom Murray",
+"title": "JK Rowling says statements about trans people have been ‘profoundly’ misunderstood in new podcast",
+"description": "‘I never set out to upset anyone,’ author claims",
+"url": "https://www.independent.co.uk/arts-entertainment/tv/news/jk-rowling-podcast-trans-harry-potter-comments-hogwarts-b2283266.html",
+"urlToImage": "https://static.independent.co.uk/2022/12/12/10/newFile-2.jpg?quality=75&width=1200&auto=webp",
+"publishedAt": "2023-02-16T00:43:42Z",
+"content": "Sign up to our free IndyArts newsletter for all the latest entertainment news and reviews\r\nSign up to our free IndyArts newsletter\r\nJK Rowling is addressing the controversy surrounding her stance on … [+3810 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "blogTO"
+},
+"author": "Lauren O'Neil",
+"title": "Doug Ford says that a 'lefty mayor' could destroy Toronto if John Tory leaves",
+"description": "It looks like Ontario Premier Doug Ford is among the political allies of embattled Toronto Mayor John Tory who would really rather not see any shakeups in leadership at City Hall right now.\r\n\"There's your private family, and then there's business, and I can t…",
+"url": "https://www.blogto.com/city/2023/02/doug-ford-john-tory-lefty-mayor-destroy-toronto/",
+"urlToImage": "https://media.blogto.com/articles/20230215-ford-tory.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70",
+"publishedAt": "2023-02-16T00:18:24Z",
+"content": "It looks like Ontario Premier Doug Ford is among the political allies of embattled Toronto Mayor John Tory who would really rather not see any shakeups in leadership at City Hall right now.\r\n\"There's… [+4379 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Autocar"
+},
+"author": null,
+"title": "Toyota Yaris Cross 2023 long-term test",
+"description": "New hybrid compact crossover is selling like hot cakes, and we’ve just left the bakery\n\nWhy we’re running it:  To see why people are scrambling for this latest hybrid crossover offering\r\n\n\r\n\nMonth 1 - Specs\r\n\n\r\n\n\r\n\nLife with a Toyota Yaris Cross: Month 1\r\n\nWe…",
+"url": "https://www.autocar.co.uk/car-review/toyota/yaris-cross/long-term-reviews/toyota-yaris-cross-2023-long-term-test",
+"urlToImage": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/long-term-review/legacy/kris-culmer-s-lt-yaris-cross-10.jpg",
+"publishedAt": "2023-02-16T00:01:44Z",
+"content": "Why were running it:  To see why people are scrambling for this latest hybrid crossover offering\r\nLife with a Toyota Yaris Cross: Month 1\r\nWelcoming the Yaris Cross to the fleet - 15 February 2022\r\nI… [+2147 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Pras Subramanian",
+"title": "Ford F-150 Lightning production remains halted as battery investigation could 'take a few weeks'",
+"description": "In a blow to the company’s growing EV ambitions, Ford today confirmed it is halting production and shipments of its F-150 Lightning electric pickup due to a ...",
+"url": "https://finance.yahoo.com/news/ford-f-150-lightning-production-remains-halted-as-battery-investigation-could-take-a-few-weeks-001510064.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/4boyFv8IiZApQ6Vq5uY5OA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzk-/https://s.yimg.com/os/creatr-uploaded-images/2021-09/b2257b30-1fe7-11ec-bdfd-a17a5d2ccfb7",
+"publishedAt": "2023-02-16T00:15:10Z",
+"content": "Ford (F) today issued an update on the production and delivery halt for the F-150 Lightning EV pickup, claiming it will suspend production and deliveries of the vehicle through at least the end of ne… [+2376 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Purpose Investments Inc.",
+"title": "Purpose Investments Inc. Announces February 2023 Distributions",
+"description": "TORONTO, Feb. 15, 2023 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of February 2023 for its...",
+"url": "https://finance.yahoo.com/news/purpose-investments-inc-announces-february-003000560.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/OwsqVxFnIyD4BXHqvk4Fog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://media.zenfs.com/da/globenewswire.com/ca68d7c660d4a63860be9c2e8901c158",
+"publishedAt": "2023-02-16T00:30:00Z",
+"content": "TORONTO, Feb. 15, 2023 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (Purpose) is pleased to announce distributions for the month of February 2023 for its open-end exchange-traded funds and closed-end… [+10875 chars]"
+},
+{
+"source": {
+"id": "abc-news-au",
+"name": "ABC News (AU)"
+},
+"author": "Lucy MacDonald",
+"title": "Woman in Tim Paine sexting scandal stole thousands to 'punish' Cricket Tasmania",
+"description": "The woman involved in the Tim Paine sexting scandal claims she stole money from Cricket Tasmania partly because she was struggling in a toxic work environment and wanted to \"somehow punish\" the organisation.",
+"url": "https://www.abc.net.au/news/2023-02-16/renee-ferguson-stole-thousands-to-punish-cricket-tasmania/101981812",
+"urlToImage": "https://live-production.wcms.abc-cdn.net.au/916d2ecdf20158a11595d5b33ce60dd2?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=69&width=862&height=485",
+"publishedAt": "2023-02-16T04:09:20Z",
+"content": "The woman involved in the Tim Paine sexting scandal claims she stole money from Cricket Tasmania partly because she was struggling in a toxic work environment and wanted to \"somehow punish\" the organ… [+4821 chars]"
+},
+{
+"source": {
+"id": "usa-today",
+"name": "USA Today"
+},
+"author": "Bengals Wire",
+"title": "Bengals suggested as possible Jalen Ramsey landing spot if Rams cut CB",
+"description": "Would the Bengals spend big on Jalen Ramsey?",
+"url": "https://bengalswire.usatoday.com/2023/02/15/bengals-sign-jalen-ramsey-free-agency-rams-cut/",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/Vzfm2rgFA3QQuyo2SpcIjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTE-/https://media.zenfs.com/en/cincinnati_bengals_wire_usa_today_sports_articles_393/9678388ab5588acef301145da58228cc",
+"publishedAt": "2023-02-16T01:18:12Z",
+"content": "The Cincinnati Bengals might be on the hunt for help at cornerback this offseason.\r\nWith Eli Apple and Tre Flowers slated for free agency and No. 1 corner Chidobe Awuzie still coming back from an inj… [+1718 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Yahoo Sports Videos",
+"title": "How would Aaron Rodgers fit with the Jets? | You Pod to Win the Game",
+"description": "Yahoo Sports NFL writer Charles McDonald is joined by The Athletic’s Rhiannon Walker and SBNation’s Justis Mosqueda to discuss what could be next for the Packers quarterback following his four-day darkness retreat — and how a potential trade to the New York J…",
+"url": "https://sports.yahoo.com/aaron-rodgers-fit-jets-pod-032316408.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/9sfRBmsOfnRg5d2ckHe8uQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/ca45b3b0-ada8-11ed-aedd-c28753377004",
+"publishedAt": "2023-02-16T03:23:16Z",
+"content": "Yahoo Sports NFL writer Charles McDonald is joined by The Athletics Rhiannon Walker and SBNations Justis Mosqueda to discuss what could be next for the Packers quarterback following his four-day dark… [+201 chars]"
+},
+{
+"source": {
+"id": "usa-today",
+"name": "USA Today"
+},
+"author": "Cardinals Wire",
+"title": "Former Vikings HC Mike Zimmer among coaches who could join Cardinals",
+"description": "We are beginning to hear names of potential coordinators and assistants on the Cardinals' coaching staff under Jonathan Gannon.",
+"url": "https://cardswire.usatoday.com/2023/02/15/former-vikings-hc-mike-zimmer-among-coaches-who-could-join-cardinals/",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/v0GZbpwLbC2jyRqYB4uvpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/arizona_cardinals_wire_usa_today_sports_articles_662/721a1d877c05ca1da66dfab55ee34f8c",
+"publishedAt": "2023-02-16T00:58:26Z",
+"content": "With the hiring of new head coach Jonathan Gannon, their next move is to assemble and sign a coaching staff. Gannon has a number of coaches he has worked with who could be in play.\r\nIn fact, at least… [+1160 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NBCSports.com"
+},
+"author": "NBC Sports Philadelphia",
+"title": "Eagles sign 9 players, including Devon Allen, Davion Taylor to futures deals",
+"description": "The Eagles on Wednesday signed nine players to reserve/future contracts, bringing them back for the 2023 offseason. By Dave Zangaro",
+"url": "https://www.nbcsports.com/philadelphia/eagles/eagles-sign-9-players-including-devon-allen-davion-taylor-futures-deals",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/yn4.MMtouSzK.qX0s2JZNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/csnphilly.com/f464c13317d38a10826214fc4f8b3c3c",
+"publishedAt": "2023-02-16T00:41:00Z",
+"content": "Eagles sign 9 players, including former draft picks, to futures deals originally appeared on NBC Sports Philadelphia\r\nThe Eagles on Wednesday signed nine of their practice squad players from the 2022… [+2989 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Technews.tw"
+},
+"author": "邱 倢芯",
+"title": "蘋果 AR/VR 頭盔再度被推遲，現在暫定 6 月亮相",
+"description": "蘋果傳說中的新品 AR/VR 頭盔的推出時程一而再、再而三地被推遲。 據《彭博社》引述知情人士指稱，蘋果現在將其首款混合實境耳機的推出時程，從原先的 4 月推遲到 6 月，這也意味著蘋果在下一個重大產品的推出上再度遭遇挫折。 報導指稱，蘋果的 AR/VR 頭盔在產品測試時發現，顯示硬體與軟體的問題仍...",
+"url": "https://technews.tw/2023/02/16/apple-ar-vr-headset-6/",
+"urlToImage": "https://img.technews.tw/wp-content/uploads/2021/07/08115512/shutterstock_1653464650-e1625716614628.jpg",
+"publishedAt": "2023-02-16T02:17:55Z",
+"content": "AR/VR \r\n 4 6 \r\n AR/VR \r\n 2015 6 1 6 \r\nAR/VR 2015 Apple Watch AR/VR AR/VR 3,000 90,000 \r\n Dan Riccio  AR/VR \r\nshutterstock"
+},
+{
+"source": {
+"id": null,
+"name": "Vulture"
+},
+"author": "Brian Moylan",
+"title": "Vanderpump Rules Recap: To the Dogs",
+"description": "These relationships have so many red flags. A recap of “Was It Worth It?” episode 2 of season 10 of ‘Vanderpump Rules’ on Bravo.",
+"url": "http://www.vulture.com/article/vanderpump-rules-recap-season-10-episode-2-was-it-worth-it.html",
+"urlToImage": "https://pyxis.nymag.com/v1/imgs/d42/2d2/b980ab040e428e6d07d426a3960e8882d3-2-15-VP.1x.rsocial.w1200.jpg",
+"publishedAt": "2023-02-16T03:30:51Z",
+"content": "Alright, Im just going to come out and say it: joint dog custody is not a thing. I know it is a thing in that plenty of people (especially gays) do it after a breakup, but it is a dumb thing. Its a d… [+9518 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Nextpit.com"
+},
+"author": "Jade Bryan",
+"title": "Apple Reality Pro headset may be delayed. When's the new date?",
+"description": "Apple is reportedly narrowing down the launch window for its xrOS-based Reality Pro headset. Find out when the first Apple AR/VR will be released.(This is a preview - click here to read the entire entry.)",
+"url": "https://www.nextpit.com/apple-reality-pro-launch-rumor-june-wwdc-2023",
+"urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/HTC_Vr_Glasses/NextPit_HTC_VR_Glasses-13.jpg",
+"publishedAt": "2023-02-16T01:37:20Z",
+"content": "Cited by Bloomberg's sources coming from within Apple, the company now plans to introduce the Reality Pro at its annual Worldwide Developers Conference that is kicking off sometime in June this year.… [+1422 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Moneycontrol"
+},
+"author": "Reuters",
+"title": "SP 500 ends higher after strong retail sales data",
+"description": "A Commerce Department report showed retail sales surged 3% in January as purchases of motor vehicles and other goods pushed the number well past the 1.8% estimate from economists polled by Reuters.",
+"url": "https://www.moneycontrol.com/news/business/markets/sp-500-ends-higher-after-strong-retail-sales-data-10092801.html",
+"urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/11/NYSEwall-street-770x433.jpg",
+"publishedAt": "2023-02-16T00:34:19Z",
+"content": "The S&amp;P 500 ended higher on Wednesday after stronger-than-expected retail sales data offered evidence of resilience in the U.S. economy, but gains were capped as investors worried about more inte… [+2775 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Moneycontrol"
+},
+"author": "Bloomberg",
+"title": "ASML Data Theft: Ex-employee stole info from repository for chip machines",
+"description": "The breach occurred in a repository that includes details of the lithography systems critical to producing some of the worldâs most advanced chips, said people with knowledge of the situation.",
+"url": "https://www.moneycontrol.com/news/world/asml-data-theft-ex-employee-stole-info-from-repository-for-chip-machines-10092891.html",
+"urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/02/395809819-770x433.jpg",
+"publishedAt": "2023-02-16T01:22:32Z",
+"content": "A China-based former employee of ASML Holding NV a critical cog in the global semiconductor industry stole data from a software system that the corporation uses to store technical information about i… [+4856 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NPR"
+},
+"author": "NPR",
+"title": "Two Indicators: Inside the Fed, then and now",
+"description": "A lot of the time, economic policy can seem pretty impersonal — cold, hard, data-driven. But at the heart of the Federal Reserve are people: fallible, complicated people who are just doing their best to steer the economy in the right direction. Often, we reme…",
+"url": "https://www.npr.org/2023/02/15/1157261616/two-indicators-inside-fed",
+"urlToImage": "https://media.npr.org/assets/img/2023/02/15/gettyimages-1240442516_wide-031220107d9022b985c5f32c0505b4dfcb36f6f5-s1400-c100.jpg",
+"publishedAt": "2023-02-16T00:35:32Z",
+"content": "A lot of the time, economic policy can seem pretty impersonal cold, hard, data-driven. But at the heart of the Federal Reserve are people: fallible, complicated people who are just doing their best t… [+1205 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "百亿补贴：Apple 苹果 iPhone 14 Pro Max 5G智能手机 512GB 10299元包邮（需用券）",
+"description": "Apple 苹果 iPhone 14 Pro Max 5G智能手机 128GB 7499元,什么值得买甄选出拼多多优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+"url": "https://www.smzdm.com/p/72954145/",
+"urlToImage": "https://qny.smzdm.com/202302/16/63ed8c1a024612619.jpg_d250.jpg",
+"publishedAt": "2023-02-16T04:08:37Z",
+"content": "iPhone 14 Pro Max 6.72796*1290460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro Max 29iPhone 14\r\niPh… [+51 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "百亿补贴：Apple 苹果 iPhone 14 Pro 5G智能手机 128GB 6699元包邮（需用券）",
+"description": "玩家之道A16仿生芯片加持，全天候显示功能，4800万像素三摄系统~拼多多此款目前活动售价6899元，下单页面领取200元优惠券，实付低至6699元，256GB到手价7499元，512GB到手价9299元，1TB到手价10759元。拼多多百亿补贴多数会多个店铺备用，随时切换，为方便大家选...",
+"url": "https://www.smzdm.com/p/72966085/",
+"urlToImage": "https://qny.smzdm.com/202302/13/63e9d829611c14730.jpg_d250.jpg",
+"publishedAt": "2023-02-16T03:38:33Z",
+"content": "iPhone 14 Pro6.12556*1179460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro23\r\niPhone 14 Pro48002ProR… [+32 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "Apple 苹果 iPhone 14 Plus 5G智能手机 256GB 快充套装 6928元包邮（需用券）",
+"description": "此商品目前在京东特价至6928，可参加满4000减300元活动，属于近期好价，感兴趣的值友不容错过。叠加优惠券：满4000减300元",
+"url": "https://www.smzdm.com/p/72940908/",
+"urlToImage": "https://qny.smzdm.com/202209/08/6319547c8fc1f4034.jpg_d250.jpg",
+"publishedAt": "2023-02-16T00:56:43Z",
+"content": "iPhone 14 miniiPhone 14 Plus6.7 A15 \r\n iPhone 14 6.72778*1284458ppi8001200100%DCI-P360Hz\r\niPhone 14 Plus A15 16 \r\niPhone 14 1200//1.51.949%12MP/1.938%\r\niPhone 14"
+},
+{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "百亿补贴、好价汇总：Apple 苹果 iPhone 14 Pro Max 5G智能手机 128GB 7499元包邮（需用券）",
+"description": "玩家之道iPhone 14系列旗舰超大杯，全新「灵动岛」设计，性能、影像大升级。拼多多此款目前活动售价7699元，下单页面领取200元优惠券，实付低至7499元，256GB到手价8299元，512GB到手价10299元，1TB到手价11899元。拼多多百亿补贴多数会多个店铺备用，随时切换...",
+"url": "https://www.smzdm.com/p/72966084/",
+"urlToImage": "https://qny.smzdm.com/202301/16/63c5668e9ff057874.jpg_d250.jpg",
+"publishedAt": "2023-02-16T03:51:44Z",
+"content": "iPhone 14 Pro Max 6.72796*1290460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro Max 29iPhone 14\r\niPh… [+51 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "MMA Fighting"
+},
+"author": "Jed Meshew",
+"title": "No Bets Barred: Can Jessica Andrade stop the Erin Blanchfield express on short notice at UFC Vegas 69?",
+"description": "Conner Burks and Jed Meshew break down the best bets available for UFC Vegas 69, including a long shot prop bet on a new mythical fighter.",
+"url": "https://www.mmafighting.com/2023/2/15/23601242/no-bets-barred-can-jessica-andrade-stop-the-erin-blanchfield-express-on-short-notice-at-ufc-vegas-69",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/EPKuPt2M63j9iV2yt9g3GWxnh-4=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24435038/1246460977.jpg",
+"publishedAt": "2023-02-16T01:00:00Z",
+"content": "Jessica Andrade fights at UFC Vegas 69 this weekend | Photo by Leandro Bernardes/PxImages/Icon Sportswire via Getty Images\r\n\n \n\n Coming off of the sensational UFC 284 pay-per-view event in Perth, Aus… [+1150 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "mobiFlip.de"
+},
+"author": "Oliver Schwuchow",
+"title": "Apple Reality Pro: VR-Headset soll zur WWDC 2023 kommen",
+"description": "Die denken sich das doch alle nur aus. Das könnte man manchmal meinen, wenn es um Gerüchte geht und sich Pläne ändern. Wie beim VR-Headset […]",
+"url": "https://www.mobiflip.de/shortnews/apple-reality-pro-vr-headset-soll-zur-wwdc-2023-kommen/",
+"urlToImage": "https://i0.wp.com/www.mobiflip.de/wp-content/uploads/2022/01/apple-vr-headset-header.jpg?fit=1200%2C780&ssl=1",
+"publishedAt": "2023-02-16T04:32:13Z",
+"content": "Die denken sich das doch alle nur aus. Das könnte man manchmal meinen, wenn es um Gerüchte geht und sich Pläne ändern. Wie beim VR-Headset von Apple, das mal für 2022 im Raum stand, dann hieß es Janu… [+1126 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applech2.com"
+},
+"author": "applech2",
+"title": "Intel/Apple Silicon Mac上で32-bit Windows DirectX 10/11ゲームをサポートした互換レイヤー「CrossOver 22.1 for Mac」がリリース。",
+"description": "Intel/Apple Silicon Mac上で32-bit Windows DirectX 10/11ゲームをサポートした互換レイヤー「CrossOver 22.1 for Mac」がリリースされています。詳細は以\nThe post Intel/Apple Silicon Mac上で32-bit Windows DirectX 10/11ゲームをサポートした互換レイヤー「CrossOver 22.1 for Mac」がリリース。 first appeared on AAPL Ch..",
+"url": "https://applech2.com/archives/20230216-crossover-22-1-for-mac-support-32-bit-game.html",
+"urlToImage": "https://applech2.com/wp-content/uploads/2023/02/CrossOver-22-1-for-Mac-Total-War-ROME-II-support.jpg",
+"publishedAt": "2023-02-16T04:53:15Z",
+"content": "Intel/Apple Silicon Mac32-bit Windows DirectX 10/11CrossOver 22.1 for Mac\r\nCodeWeavers20230214Windows x86MacLinuxChromeOSCrossOverCrossOver 22.1 for Mac/Linux/ChromeOS\r\nWe know our users have been he… [+460 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applech2.com"
+},
+"author": "applech2",
+"title": "Primate Labs、クロスプラットフォーム対応のベンチマークアプリ「Geekbench v6.0」のCPU/GPU Computeワークロードの詳細を公開。",
+"description": "Primate Labsがクロスプラットフォーム対応のベンチマークアプリ「Geekbench v6.0」のCPU/GPU Computeワークロードの詳細を公開しています。詳細は以下から。 　カナダPrimate La\nThe post Primate Labs、クロスプラットフォーム対応のベンチマークアプリ「Geekbench v6.0」のCPU/GPU Computeワークロードの詳細を公開。 first appeared on AAPL Ch..",
+"url": "https://applech2.com/archives/20230216-what-change-geekbench-6-benchmark-internals.html",
+"urlToImage": "https://applech2.com/wp-content/uploads/2023/02/Geekbench-v6-Benchmark-internals-workflow.jpg",
+"publishedAt": "2023-02-16T03:27:33Z",
+"content": "Primate LabsGeekbench v6.0CPU/GPU Compute\r\nPrimate Labs Inc,20230214MacWindows, LinuxiOS, AndroidGeekbenchGeekbench v6.0\r\nPrimate LabsGeekbench v6.0CPU/GPUCPU/GPU Compute WorkloadsGeekbench 6 Benchma… [+713 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "International Business Times"
+},
+"author": "Jennifer Manongdo",
+"title": "'Extrapolations': Apple TV+ Drops Trailer Of Star-Studded Climate Change Drama [Watch]",
+"description": "The upcoming anthology boasts an all-star cast that includes Meryl Streep and David Schwimmer.",
+"url": "https://www.ibtimes.com/extrapolations-apple-tv-drops-trailer-star-studded-climate-change-drama-watch-3668427",
+"urlToImage": "https://d.ibtimes.com/en/full/4394422/scientists-state-university-mato-grosso-identify-signs-climate-change-border-between-amazonia.jpg",
+"publishedAt": "2023-02-16T02:00:29Z",
+"content": "Apple TV+ dropped the first trailer of its new sci-fi limited series \"Extrapolations\" Wednesday. The show follows people who are grappling with the dangerous effects of climate change.\r\nThe upcoming … [+2117 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "International Business Times"
+},
+"author": "Ingrid Mendoza",
+"title": "Rihanna's New Album 'R9' Release Date Set For 2023: 'I Want It' This Year",
+"description": "Rihanna gave an update on the release of her ninth studio album, dubbed \"R9.\"",
+"url": "https://www.ibtimes.com/rihannas-new-album-r9-release-date-set-2023-i-want-it-this-year-3668434",
+"urlToImage": "https://d.ibtimes.com/en/full/2767351/rihanna.jpg",
+"publishedAt": "2023-02-16T03:39:29Z",
+"content": "Rihanna attends the Fenty Beauty by Rihanna Anniversary Event at Overseas Passenger Terminal on Oct. 3, 2018, in Sydney, Australia.Getty Images/Caroline McCredie\r\nKEY POINTS\r\n<ul><li>Rihanna revealed… [+3992 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Graham Cluley Security News"
+},
+"author": "Graham Cluley",
+"title": "Smashing Security podcast #309: Synthetic voices, ChatGPT reflections, and social skirmishes",
+"description": "AI-generated voices are weaponised by online trolls, how ChatGPT reflects who we are as a society, and social media is in the firing line again. All this and much much more is discussed in the latest edition of the “Smashing Security” podcast by computer secu…",
+"url": "https://grahamcluley.com/smashing-security-podcast-309/",
+"urlToImage": "https://grahamcluley.com/wp-content/uploads/2023/02/ss-episode-309.jpeg",
+"publishedAt": "2023-02-16T00:02:55Z",
+"content": "AI-generated voices are weaponised by online trolls, how ChatGPT reflects who we are as a society, and social media is in the firing line again.\r\nAll this and much much more is discussed in the lates… [+1498 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Us Weekly"
+},
+"author": "Kat Pettibone",
+"title": "Why Does Selena Gomez Get ‘Triggered’ By Her Disney Past? She Says …",
+"description": "Who says she can’t let go? Selena Gomez no longer feels constrained by her former Disney star label  — but getting there wasn’t always easy.  “I definitely feel free of it,” Gomez, 30, told Vanity Fair in an interview published on Wednesday, February 15. “Som…",
+"url": "https://www.usmagazine.com/celebrity-news/news/selena-gomez-gets-triggered-by-her-past-on-disney-channel/#article",
+"urlToImage": "https://www.usmagazine.com/wp-content/uploads/2023/01/selena-gomez.jpg?w=1200&h=630&crop=1&quality=86&strip=all",
+"publishedAt": "2023-02-16T03:36:55Z",
+"content": "Who says she cant let go? Selena Gomez no longer feels constrained by her former Disney star label   but getting there wasnt always easy. \r\nI definitely feel free of it, Gomez, 30, toldVanity Fair in… [+2949 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Digitimes"
+},
+"author": "DIGITIMES",
+"title": "China smartphone shipments enjoy boosts from promotions and holidays in 4Q22, says DIGITIMES Research",
+"description": "Smartphone shipments to the China market amounted to over 70 million units in the fourth quarter of 2022, soaring more than 20% from a quarter ago thanks to vendors' keen preparation for Singles' Day promotions and inventory ramp-up in December for the Lunar …",
+"url": "https://www.digitimes.com/news/a20230215VL205/digitimes-research.html",
+"urlToImage": "https://img.digitimes.com/newsshow/20230215vl205_files/1_2b.jpg",
+"publishedAt": "2023-02-16T02:07:07Z",
+"content": "Smartphone shipments to the China market amounted to over 70 million units in the fourth quarter of 2022, soaring more than 20% from a quarter ago thanks to vendors' keen preparation for Singles' Day… [+1519 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Overclockers.ru"
+},
+"author": "Алексей Сычёв",
+"title": "Apple представит гарнитуру дополненной реальности не ранее июня",
+"description": "Но в продажу новинка всё равно поступит до конца года.",
+"url": "https://overclockers.ru/hardnews/show/124082/apple-predstavit-garnituru-dopolnennoj-realnosti-ne-ranee-ijunya",
+"urlToImage": "https://overclockers.ru/st/images/preview/6sxvPqtuFIc2lM2W.jpg",
+"publishedAt": "2023-02-16T03:32:00Z",
+"content": "Bloomberg Apple, 2015 . , . , , WWDC, .\r\n, N301 . , - $3000. Apple ."
+},
+{
+"source": {
+"id": null,
+"name": "Iphone-mania.jp"
+},
+"author": "m7000",
+"title": "Apple、macOS Big Sur 11.7.4をリリース",
+"description": "Appleは現地時間2月15日、macOS Big Sur 11.7.4を公開しました。\nmacOS Big Sur 11.7.4がリリース\n今回のアップデートでは、macOS Big Sur 11.7.3で発生したSafariの「お気に入り」セクションのアイコンが表示されなくなる問題に対処しています。通常はアイコンが表示されるはずのスペースが空白になっていたため、「お気に入り」のセクションに、どのサイトが表示されているのかが分かりずらくなっていました。\n \n \nAppleは、Safari 16.3.1もリリース…",
+"url": "https://iphone-mania.jp/news-524398/",
+"urlToImage": "https://iphone-mania.jp/uploads/2023/02/16/apple_macos-bigsur-availability_redesign_11122020_big.large_2x-e1676513249923.jpg",
+"publishedAt": "2023-02-16T02:14:12Z",
+"content": "Apple215macOS Big Sur 11.7.4macOS Big Sur 11.7.4\r\nmacOS Big Sur 11.7.3Safari\r\nAppleSafari 16.3.1SafariMacmacOS Big Sur\r\nmacOS Big SurWWDC20macOS Big SurSafari2003Chrome50%\r\n iOS/iPadOS16.3.1watchOS9.… [+67 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Mac Observer"
+},
+"author": "Nick deCourville",
+"title": "How to Make a Slideshow in iMovie",
+"description": "Users should know that not only is iMovie useful for creating films and movies, but it can also be great for users that want to make a slideshow. Even if you have no experience with video editing, creating a slideshow in iMovie is incredibly easy, so long as …",
+"url": "https://www.macobserver.com/tips/make-slideshow-imovie/",
+"urlToImage": "https://www.macobserver.com/wp-content/uploads/2023/02/MakeSlideShowiMovieFebruary2023Featured.jpg",
+"publishedAt": "2023-02-16T00:06:49Z",
+"content": "Users should know that not only is iMovie useful for creating films and movies, but it can also be great for users that want to make a slideshow. Even if you have no experience with video editing, cr… [+6452 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Daily Mail"
+},
+"author": "Carly Johnson",
+"title": "Naomi Watts supports beau Billy Crudup at premiere of his Apple TV+ series Hello Tomorrow!",
+"description": "The premiere was held at The Whitby Hotel in New York City and attended by a number of Crudup's co-stars, including Hank Azaria, Haneefah Wood and Dewshane Williams.",
+"url": "https://www.dailymail.co.uk/tvshowbiz/article-11757089/Naomi-Watts-supports-beau-Billy-Crudup-premiere-Apple-TV-series-Hello-Tomorrow.html",
+"urlToImage": "https://i.dailymail.co.uk/1s/2023/02/16/03/67742611-0-image-a-59_1676519996430.jpg",
+"publishedAt": "2023-02-16T04:07:31Z",
+"content": "Naomi Watts looked effortlessly radiant on Wednesday as she stepped out with boyfriend Billy Crudup in support of his Apple TV+ series, Hello Tomorrow!\r\nThe premiere was held at The Whitby Hotel in N… [+4770 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Complex"
+},
+"author": "Joshua Espinoza",
+"title": "Taylor Swift and Bad Bunny Among 2022's Top 10 Highest Paid Entertainers",
+"description": "The group, which collectively earned $1.35 billion, also included director James Cameron, Brad Pitt, and 'The Simpsons' creators James Brooks and Matt Groening.",
+"url": "https://www.complex.com/music/taylor-swift-bad-bunny-among-top-10-highest-paid-entertainers-2022",
+"urlToImage": "https://images.complex.com/complex/images/c_fill,f_auto,g_center,w_1200/fl_lossy,pg_1/nhzwitxs0og6jolslua6/taylor-swift-bad-bunny-among-top-10-highest-paid-entertainers-2022",
+"publishedAt": "2023-02-16T00:55:15Z",
+"content": "Taylor Swift and Bad Bunny made serious bank last year. \r\nThe Grammy-winning artists were among Forbes’ top 10 highest paid entertainers of 2022—a somewhat surprising list that included directors, sh… [+2039 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Joemonster.org"
+},
+"author": null,
+"title": "InPost zakazuje odmiany słowa Paczkomat – Co nowego w technologii?",
+"description": "W dzisiejszym odcinku:\nInPost zakazuje odmiany słowa Paczkomat\nSpaceX przyznało, że blokuje Ukraińcom internet\nElon Musk wrzuca na Twittera takie w…",
+"url": "https://joemonster.org/art/66872/Co_nowego_w_technologii",
+"urlToImage": "https://img.joemonster.org/i/thumbs/artpic66872_2066288405-1200.jpg",
+"publishedAt": "2023-02-16T04:07:02Z",
+"content": "W dzisiejszym odcinku:<ul><li>InPost zakazuje odmiany sowa Paczkomat</li><li>SpaceX przyznao, e blokuje Ukraicom internet</li><li>Elon Musk wrzuca na Twittera takie wpisy i chce, aby wszyscy je zobac… [+8309 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Daemonology.net"
+},
+"author": null,
+"title": "Daily Hacker News for 2023-02-15",
+"description": "The 10 highest-rated articles on\nHacker News\non February 15, 2023 which have not appeared on any previous\nHacker News Daily\nare:\n<ul>\n<li>\nBlue Origin manufactured solar cell prototype from lunar regolith simulants\n(comments)\n</li>\n<li>\nMaybe people do care a…",
+"url": "https://www.daemonology.net/hn-daily/2023-02-15.html",
+"urlToImage": null,
+"publishedAt": "2023-02-16T00:00:00Z",
+"content": "The 10 highest-rated articles on\r\nHacker News\r\non February 15, 2023 which have not appeared on any previous\r\nHacker News Daily\r\nare:"
+},
+{
+"source": {
+"id": null,
+"name": "TweakTown"
+},
+"author": "Kosta Andreadis",
+"title": "Apple's latest patent is more evidence that a foldable iPhone is coming soon",
+"description": "With rumors that Apple is planning to release a foldable iPhone heating up, the company has filed a new patent that features an interesting design. Continue reading at TweakTown >",
+"url": "https://www.tweaktown.com/news/90376/apples-latest-patent-is-more-evidence-that-foldable-iphone-coming-soon/index.html",
+"urlToImage": "https://static.tweaktown.com/news/9/0/90376_01_apples-latest-patent-is-more-evidence-that-foldable-iphone-coming-soon_full.jpg",
+"publishedAt": "2023-02-16T01:28:02Z",
+"content": "We've been reporting on a foldable iPhone for many years, with rumors and analysts pointing to Apple developing a next-gen foldable iPhone for release in the coming years. Recently we got word that A… [+1522 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gizchina.com"
+},
+"author": "Marco Lancaster",
+"title": "Apple Mixed Reality Headset will launch at the WWDC 2023",
+"description": "The Apple Mixed Reality is a legendary device that has been stealing the headlines in recent years. After multiple delays, the company’s next revolutionary product ...\nThe post Apple Mixed Reality Headset will launch at the WWDC 2023 appeared first on Gizchin…",
+"url": "https://www.gizchina.com/2023/02/15/apple-mixed-reality-headset-will-launch-at-the-wwdc-2023/",
+"urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/02/imagem_2023-02-15_212121732.png",
+"publishedAt": "2023-02-16T00:16:18Z",
+"content": "The Apple Mixed Reality is a legendary device that has been stealing the headlines in recent years. After multiple delays, the company’s next revolutionary product is finally set to debut in 2023. As… [+3511 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tass.ru"
+},
+"author": "ТАСС",
+"title": "Республиканцы запросили документы по делу о подавлении свободы слова у пяти IT-компаний",
+"description": "Генеральных директоров Alphabet, Amazon, Apple, Meta и Microsoft вызвали в суд для предоставления документов и сообщений в рамках разбирательства",
+"url": "https://tass.ru/obschestvo/17061227",
+"urlToImage": "https://cdn-storage-tass.cdnvideo.ru/thumb/ru/obschestvo/17061227",
+"publishedAt": "2023-02-16T01:04:47Z",
+"content": ", 16 .  , , Apple, Amazon, Meta, Alphabet Microsoft  . - .\r\n\" [, ] Alphabet, Amazon, Apple, Meta Microsoft , \", - , .\r\n , 2022 . , .\r\n , , 23 2023 ."
+},
+{
+"source": {
+"id": null,
+"name": "Arigato-ipod.com"
+},
+"author": "Ygn",
+"title": "【新製品】3か所にストラップホールを搭載した、iPhone 14/14 Proシリーズ用のMagSafe対応ケース「OtterBox Aneu Case」Apple公式サイトで販売開始",
+"description": "Apple公式サイトでiPhone 14/14 Proシリーズ用の「OtterBox Aneu Case（MagSafe対応）」が販売開始されています。 MagSafeシステム対応のマグネットを内蔵した、耐衝撃ケースです...\nThe post 【新製品】3か所にストラップホールを搭載した、iPhone 14/14 Proシリーズ用のMagSafe対応ケース「OtterBox Aneu Case」Apple公式サイトで販売開始 first appeared on アイアリ.",
+"url": "https://arigato-ipod.com/2023/02/otterbox-aneu-case-for-iphone-14-pro-magsafe-compatible.html",
+"urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2023/02/230216otterboxanuecase14pro.jpg",
+"publishedAt": "2023-02-16T03:01:04Z",
+"content": "Apple公式サイトでiPhone 14/14 Proシリーズ用の「OtterBox Aneu Case（MagSafe対応）」が販売開始されています。\n\n\nMagSafeシステム対応のマグネットを内蔵した、耐衝撃ケースです。\niPhone 14用、14 Plus用、iPhone 14 Pro用、14 Pro Max用の4サイズです。\n\n角にふたつ、側面にひとつの、計3か所にストラップホールを搭… [+521 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "DIE WELT"
+},
+"author": "Christoph Kapalschinski",
+"title": "Die Vision vom besseren E-Bike zur Miete",
+"description": "Der Gründer der erfolgreichen App Soundcloud verleiht Elektroräder in Berlin, Hamburg und München – und mit internationalen Ambitionen. Doch die Krise zwingt ihn zu einem langsamen Tempo. Der Plan, eine weltweite „Bewegung“ zu schaffen, steht.",
+"url": "https://www.welt.de/wirtschaft/article243781877/Frisches-Geld-fuer-Dance-Die-Vision-vom-besseren-E-Bike-zur-Miete-lebt.html",
+"urlToImage": "https://img.welt.de/img/wirtschaft/mobile243782835/0601352567-ci16x9-w1200/Dance-E-Mobility-pressdanceco-Eric.jpg",
+"publishedAt": "2023-02-16T04:02:59Z",
+"content": "Die Berliner Szene bringt Start-ups hervor, die schon zu Beginn mit hohen Erwartungen fast überlastet sind. Dance ist so ein Fall. 2020 sickerte gerüchteweise durch, dass die Gründer des weltweit erf… [+5160 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Prtimes.jp"
+},
+"author": null,
+"title": "「北欧、暮らしの道具店」Sporifyプレイリスト フォロワー10万人突破。リモートワークや家事のBGMに、ながら聴き需要に応える「音声コンテンツ」が人気。",
+"description": "[株式会社クラシコム]\n[画像1: https://prtimes.jp/i/24748/94/resize/d24748-94-1a73f94e11c129c94b63-0.jpg ]\n\n\n■10万フォロワー達成の背景\n当社が運営する「北欧、暮らしの道具店」は、コラム・ドラマ・ドキュメンタリーなどさまざ...",
+"url": "https://prtimes.jp/main/html/rd/p/000000094.000024748.html",
+"urlToImage": "https://prtimes.jp/i/24748/94/ogp/d24748-94-1a73f94e11c129c94b63-0.jpg",
+"publishedAt": "2023-02-16T01:00:00Z",
+"content": "10D2C2018520204(*1)1,400\r\n20204Spotify6Apple Music\r\nSpotify11.510\r\nApple Music\r\n20BGM11\r\n×\r\n[]URL:https://hokuohkurashi.com/note/206296\r\nBGMSpotifyYouTube\r\nDJ\r\nÁsgeirNakamuraEmi \r\n[Ásgeir2]URL:https:… [+553 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Prtimes.jp"
+},
+"author": null,
+"title": "EC化率50%超のMAISON SPECIALが登壇！3月8日15:00-「ECサイトの体験設計」に関するウェビナーを開催",
+"description": "[Recustomer株式会社]\n\n申し込みページ：https://us02web.zoom.us/webinar/register/2816762691836/WN_ZgBGumWxSWK3AvnPDGa61g\n\n\n[画像1: https://prtimes.jp/i/46039/40/resize/d46039-40-ef524f0dd5d0a4a1d8c0-4.png ]\n\n\n■ウェビナー...",
+"url": "https://prtimes.jp/main/html/rd/p/000000040.000046039.html",
+"urlToImage": "https://prtimes.jp/i/46039/40/ogp/d46039-40-ef524f0dd5d0a4a1d8c0-4.png",
+"publishedAt": "2023-02-16T01:00:00Z",
+"content": "435MAISON SPECIALECEC2022320232EC50EC50%\r\nMAISON SPECIALECECEC\r\nEC50EC50%EC\r\nEC\r\n<ul><li>MAISON SPECIAL</li></ul>\r\n202338()15:00-16:00Zoom\r\nhttps://us02web.zoom.us/webinar/register/2816762691836/WN_Z… [+637 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Dark Horizons"
+},
+"author": "Garth Franklin",
+"title": "Apple’s Sci-Fi “Extrapolations” Series Trailer",
+"description": "Apple has released the trailer for “Extrapolations,” the upcoming episodic anthology series about climate change that hails from “Contagion” and “The Report” scribe Scott Z. Burns. The series features eight interconnected stories which explore the life-alteri…",
+"url": "https://www.darkhorizons.com/apples-sci-fi-extrapolations-series-trailer/",
+"urlToImage": "https://cdndh.darkhorizons.com/wp-content/uploads/2023/02/apples-sci-fi-extrapolations-series-trailer.jpg",
+"publishedAt": "2023-02-16T00:26:58Z",
+"content": "Apple has released the trailer for “Extrapolations,” the upcoming episodic anthology series about climate change that hails from “Contagion” and “The Report” scribe Scott Z. Burns.\r\nThe series featur… [+568 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Storm.mg"
+},
+"author": "吳哲宜",
+"title": "蘋果獲得最新專利！實現「摺疊設備全觸控」　分析曝明年將先推「這產品」測反應",
+"description": "蘋果也要推出可摺疊螢幕手機了嗎？根據外媒報導，美國專利局本周二（14日）授予蘋果一項在「可折疊電子設備」配備觸摸傳感器的專利，...",
+"url": "https://www.storm.mg/lifestyle/4734060",
+"urlToImage": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2023/02/16/20230216-121639_U27069_M830136_5bea.png?itok=yAW6wuy-",
+"publishedAt": "2023-02-16T04:26:04Z",
+"content": "14\r\n[LINE] \r\nFT International 2025\r\nApple Patents Hint at Folding iPhone, Waterfall Display https://t.co/yKz1OktYg8pic.twitter.com/9gm7prQPGF\r\nGizmodo (@Gizmodo) February 14, 2023\r\niPhoneCCS Insighti… [+8 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Dramabeans.com"
+},
+"author": "alathe",
+"title": "Our Blooming Youth: Episodes 3-4",
+"description": "Our heroine has found a way to enter the palace walls: disguised as a eunuch, she’s bound to escape notice. But to win the crown prince’s approval and aid, she must first demonstrate her skills as a detective. And she’s not the only one — her fiancé faces pre…",
+"url": "https://www.dramabeans.com/2023/02/our-blooming-youth-episodes-3-4/",
+"urlToImage": "https://d263ao8qih4miy.cloudfront.net/wp-content/uploads/2023/02/coverphoto.jpg",
+"publishedAt": "2023-02-16T02:00:57Z",
+"content": "Our Blooming Youth: Episodes 3-4\r\nOur heroine has found a way to enter the palace walls: disguised as a eunuch, shes bound to escape notice. But to win the crown princes approval and aid, she must fi… [+11147 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ferra.ru"
+},
+"author": "Булат Кармак",
+"title": "Хорошего понемножку: новый MacBook Air получит увеличенный дисплей, но процессор останется старым",
+"description": "Последние недели по Сети активно ходят слухи о новом MacBook Air с 15-дюймовым дисплеем. Источники сообщали, что это также будет первый ноутбук бренда, в основу которого ляжет неанонсированный процессор Apple M3.",
+"url": "https://www.ferra.ru/news/notebooks/khoroshego-ponemnozhku-novyi-macbook-air-poluchit-uvelichennyi-displei-no-processor-ostanetsya-starym-15-02-2023.htm",
+"urlToImage": "https://www.ferra.ru/imgs/2023/02/15/20/5797198/06f8992a93778a5860727c20978fc590c71d0d02.jpeg",
+"publishedAt": "2023-02-16T03:43:01Z",
+"content": "MacBook Pro? MacBook Air 15- . , , Apple M3."
+},
+{
+"source": {
+"id": null,
+"name": "SiliconANGLE News"
+},
+"author": "James Farrell",
+"title": "Tech CEOs to meet with House Judiciary Committee over content moderation practices",
+"description": "The House Judiciary Chairman Jim Jordan today issued subpoenas to the chief executives of the five largest tech companies to talk about content moderation methods and possible censorship on their platforms. A group of congressional Republicans led by Jordan (…",
+"url": "https://siliconangle.com/2023/02/15/tech-ceos-meet-house-judiciary-committee-content-moderation-practices/",
+"urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/25579299385_c35d4fb3ac_c.jpg",
+"publishedAt": "2023-02-16T02:30:40Z",
+"content": "The House Judiciary Chairman Jim Jordan today issued subpoenas to the chief executives of the five largest tech companies to talk about content moderation methods and possible censorship on their pla… [+2753 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Independent.ie"
+},
+"author": null,
+"title": "Real Health Podcast: From 5k to Ultra Marathon: Karl's tips for all running distances",
+"description": "Running has never been as popular as it is now. People are hitting the pavements and park runs, keeping fit and keeping their hearts healthy.",
+"url": "https://www.independent.ie/podcasts/the-real-health-podcast/real-health-podcast-from-5k-to-ultra-marathon-karls-tips-for-all-running-distances-42343586.html",
+"urlToImage": "https://www.independent.ie/incoming/9a345/42343587.ece/AUTOCROP/w1240h700/RH%20YouTube%20image.jpg",
+"publishedAt": "2023-02-16T02:30:00Z",
+"content": "Running has never been as popular as it is now. People are hitting the pavements and park runs, keeping fit and keeping their hearts healthy.\r\nIf running is not something youve done before, or you ha… [+1458 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Softantenna.com"
+},
+"author": "softantenna",
+"title": "Apple、macOS Big Sur 11.7.4正式版をリリース - 重要なセキュリティ修正",
+"description": "Appleは本日、macOS Big Surの最新アップデート「macOS Big Sur 11.7.4」の正式版をリリースしました(MacRumors)。 該当のMacを使用している場合「システム環境設定 > ソフトウェア・アップデート」",
+"url": "https://softantenna.com/blog/macos-big-sur-11-7-4-released/",
+"urlToImage": "https://softantenna.com/blog/wp-content/uploads/2023/02/s_20230216_101325-1.jpg",
+"publishedAt": "2023-02-16T01:25:03Z",
+"content": "ApplemacOS Big SurmacOS Big Sur 11.7.4(MacRumors)\r\nMac &gt; \r\nmacOS Big Sur 11.7.4Safari11.7.3Safari \r\nWeb()"
+},
+{
+"source": {
+"id": null,
+"name": "SoyaCincau.com"
+},
+"author": "Alexander Wong",
+"title": "TNBX turns on EV DC fast chargers at Tapah R&R, free charging up to 180kW",
+"description": "Following the opening of the TNB Electron EV chargers at Ayer Keroh and Paka R&R last month, the power utility company has announced that its third charging hub at Tapah R&R (northbound) on the North-South Expressway is now open. As part of its introductory o…",
+"url": "https://soyacincau.com/2023/02/16/tnbx-tnb-electron-ev-dc-fast-charging-at-tapah-rnr-northbound-180kw/",
+"urlToImage": "https://soyacincau.com/wp-content/uploads/2023/02/230216-TNB-Rapah-RNR-EV-charger.jpg",
+"publishedAt": "2023-02-16T01:25:49Z",
+"content": "Following the opening of the TNB Electron EV chargers at Ayer Keroh and Paka R&amp;R last month, the power utility company has announced that its third charging hub at Tapah R&amp;R (northbound) on t… [+1902 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Independent.ie"
+},
+"author": "By Farnoush Amiri, Associated Press",
+"title": "Republicans subpoena tech chiefs as part of probe into censorship claims",
+"description": "Subpoenas have been sent to the chief executives of the five largest tech companies as congressional Republicans moved to investigate what they claim is widespread corporate censorship of conservative voices.",
+"url": "https://www.independent.ie/world-news/republicans-subpoena-tech-chiefs-as-part-of-probe-into-censorship-claims-42344680.html",
+"urlToImage": "https://www.independent.ie/world-news/4569e/42344677.ece/AUTOCROP/w1240h700/ipanews_1485d6b0-9354-4ee7-a8cd-efb6a632133b_1",
+"publishedAt": "2023-02-16T02:47:00Z",
+"content": "Subpoenas have been sent to the chief executives of the five largest tech companies as congressional Republicans moved to investigate what they claim is widespread corporate censorship of conservativ… [+2860 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Minatokobe.com"
+},
+"author": "酔いどれ",
+"title": "Appleはまだ12インチMacBookの再導入を計画している可能性も",
+"description": "Appleは12インチMacBookの復活計画を継続している可能性があると韓国のブログNaverが主張しています この記事は、正確なAppleの噂を集めた実績のあるアカウント「yeux 1122」からのものです、Appleに部品を供給している会社の関係者によると、Appleは12インチMacBookの再導入を準備しているとのことです 同社はこのデバイスの将来性を熟考しているようで、発売されるかどうかはまだ確認されていません、にもかかわらず、このデバイスに関連する生産活動は継続中であると言われています 、Apple…",
+"url": "https://minatokobe.com/wp/os-x/apple-silicon-mac/post-87730.html",
+"urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/02/2023-02-16_09-13-54.jpg",
+"publishedAt": "2023-02-16T00:14:53Z",
+"content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Minatokobe.com"
+},
+"author": "酔いどれ",
+"title": "Apple、macOS Big Sur 11.7.4をリリース、Safariのお気に入りアイコンを修正",
+"description": "AppleはmacOS Big Sur 11.7.4をリリースし、Safariのお気に入りでアイコンがグレーアウトしたり表示されなかったりする問題を修正しました、その他のアップデートやセキュリティパッチについては言及されていません macOS Big Surは元々2020年にリリースされましたが、Appleは今でも時々アップデートを提供していいます、新しいバージョンのmacOS Big Sur 11.7.4にはセキュリティCVE番号が添付されていないため、バグ修正のアップデートにすぎない可能性が高いと思われます …",
+"url": "https://minatokobe.com/wp/os-x/macos-big-sur/post-87733.html",
+"urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/02/2023-02-16_09-41-01.jpg",
+"publishedAt": "2023-02-16T00:41:41Z",
+"content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Minatokobe.com"
+},
+"author": "酔いどれ",
+"title": "Apple直営店舗によるiPadの販売はわずか29％に過ぎない",
+"description": "CIRPの最新の調査によると、Appleの小売店はiPadの売上の29%に過ぎず、残りの71%はAmazon、Best Buy、TargetやWalmartといったその他の小売店によるものだということが判明しました AmazonはApple直営店舗に遠く及ばず、米国内のiPadの23％を単独で販売し、Best Buyは16％を販売しています Macは、主にハイテク企業の小売店で購入されるAppleのハードウェア製品です、CIRPによると、Macの販売台数の39%を占めています また、Best Buyが26%、Am…",
+"url": "https://minatokobe.com/wp/ios/ipad/post-87737.html",
+"urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/02/10th-iPad_001-1.jpg",
+"publishedAt": "2023-02-16T00:55:07Z",
+"content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Eslpod.com"
+},
+"author": "Paolo T",
+"title": "Say It Right!",
+"description": "WHICH ONE IS CORRECT? “My neighbor will ____________ my two dogs and three cats while I’m on vacation.” A. Look away B. Look toward C. Look after D. Look under Watch and find out! Looking for a FAST, easy way … Continue reading →",
+"url": "https://www.eslpod.com/eslpod_blog/2023/02/15/say-it-right-69/",
+"urlToImage": null,
+"publishedAt": "2023-02-16T00:00:31Z",
+"content": "WHICH ONE IS CORRECT?\r\nMy neighbor will ____________ my two dogs and three cats while Im on vacation.\r\nA. Look awayB. Look towardC. Look afterD. Look under\r\nWatch and find out!\r\nLooking for a FAST, e… [+1321 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Wccftech"
+},
+"author": "Omar Sohail",
+"title": "Apple’s AR Headset Once More Plagued By Delays, Now Said To Launch In June Instead Of April",
+"description": "The launch of Apple’s AR headset was said to happen before this year’s WWDC keynote, but just like what earlier reports have mentioned, delays keep haunting the head-mounted wearable. Instead, the mixed reality headset is now said to launch in June, as Apple …",
+"url": "https://wccftech.com/apple-ar-headset-launch-now-happening-in-june/",
+"urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/02/Apple-AR-headset-render.jpg",
+"publishedAt": "2023-02-16T01:38:07Z",
+"content": "The launch of Apples AR headset was said to happen before this years WWDC keynote, but just like what earlier reports have mentioned, delays keep haunting the head-mounted wearable. Instead, the mixe… [+1844 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Wccftech"
+},
+"author": "Omar Sohail",
+"title": "Snapdragon 8 Gen 3 Launch To Happen In October Instead Of November This Year, Claims Newest Rumor",
+"description": "Qualcomm holds its annual Snapdragon Summit in the month of November, and its schedule did not change when announcing the Snapdragon 8 Gen 2. However, the company might have different plans with the Snapdragon 8 Gen 3, as it is rumored to launch its next flag…",
+"url": "https://wccftech.com/snapdragon-8-gen-3-launch-in-october-2023/",
+"urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/02/Snapdragon-8-Gen-3-1.jpg",
+"publishedAt": "2023-02-16T02:59:30Z",
+"content": "Qualcomm holds its annual Snapdragon Summit in the month of November, and its schedule did not change when announcing the Snapdragon 8 Gen 2. However, the company might have different plans with the … [+2268 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Post Magazine"
+},
+"author": "Bloomberg, Bloomberg",
+"title": "Apple pushes back mixed-reality headset launch to June over hardware and software issues",
+"description": "Apple now plans to launch the expected US$3,000 headset at its annual Worldwide Developers Conference as it tries to keep the release window in 2023.",
+"url": "https://www.scmp.com/tech/big-tech/article/3210377/apple-pushes-back-mixed-reality-headset-launch-june-over-hardware-and-software-issues",
+"urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/02/16/3619cd90-27d2-4895-97c1-503ba6ba3892_ea5d06bf.jpg?itok=qNbFr2YQ&v=1676518093",
+"publishedAt": "2023-02-16T04:00:14Z",
+"content": "Published: 12:00pm, 16 Feb, 2023\r\nUpdated: 12:00pm, 16 Feb, 2023"
+},
+{
+"source": {
+"id": null,
+"name": "Metafilter.com"
+},
+"author": "piyushnz",
+"title": "Recommend a music recommendation tool",
+"description": "I'm always on the hunt for new bands to listen to but find existing music recommendation engines (eg. Apple music similar artists) deficient for the following reason. The issue is that I am almost always recommended older well-known artists who were productiv…",
+"url": "https://ask.metafilter.com/370562/Recommend-a-music-recommendation-tool",
+"urlToImage": "http://cdn.mefi.us/images/askmefi/apple-touch-icon.png",
+"publishedAt": "2023-02-16T00:24:14Z",
+"content": "Ask MetaFilter is a question and answer site that covers nearly any question on earth, where members help each other solve problems. Ask MetaFilter is where thousands of life's little questions are a… [+7 chars]"
+},
+{
+"source": {
+"id": "le-monde",
+"name": "Le Monde"
+},
+"author": "Le Monde avec AFP",
+"title": "Etats-Unis : des élus républicains exigent des géants de la tech des documents sur leur modération des contenus",
+"description": "Ces assignations s’inscrivent dans une offensive plus large des élus républicains, à la tête de la Chambre des représentants depuis janvier, visant Joe Biden, la Silicon Valley, le renseignement américain et l’idéologie progressive, dite « woke », des agences…",
+"url": "https://www.lemonde.fr/international/article/2023/02/16/etats-unis-des-elus-republicains-exigent-des-geants-de-la-tech-des-documents-sur-leur-moderation-des-contenus_6161991_3210.html",
+"urlToImage": "https://img.lemde.fr/2023/02/08/0/0/7000/4666/1440/960/60/0/bde2e4d_7bef7f2a729347e695bc48bba29088aa-0-f3bc214926f545689354b884b60a8577.jpg",
+"publishedAt": "2023-02-16T00:49:13Z",
+"content": "Kevin McCarthy, speaker de la Chambre des représentants à dominance républicaine, le 7 février 2023 à Washington, aux Etats-Unis. SUSAN WALSH / AP\r\nCinq géants de la Silicon Valley ont été assignés m… [+2626 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Habr.com"
+},
+"author": "daniilshat",
+"title": "CEO крупных американских IT-компаний вызвали в суд по делу о цензуре в сговоре с правительством",
+"description": "Судебный комитет Палаты представителей США вызвал глав Apple, Amazon, Alphabet, Meta* и Microsoft по делу о сговоре с правительством. Суду предстоит выяснить как компании взаимодействовали с администрацией Байдена в вопросе модерации контента на своих площадк…",
+"url": "https://habr.com/ru/news/t/717238/#post-content-body",
+"urlToImage": "https://habr.com/share/publication/717238/426893829b2ae5f594f88f11f23b8e5b/",
+"publishedAt": "2023-02-16T04:04:01Z",
+"content": "Apple, Amazon, Alphabet, Meta* Microsoft . .\r\n . , , , . . CEO , , COVID-19 . 23 2023 .\r\n . , .\r\n, CEO Twitter . , . Twitter . Twitter , - 2021 .\r\nMeta Platforms*, Facebook** Instagram*** , **"
+},
+{
+"source": {
+"id": "nbc-news",
+"name": "NBC News"
+},
+"author": "Zoë Richards",
+"title": "House Republicans subpoena Apple, Facebook and Google over content moderation",
+"description": "The GOP-led House Judiciary Committee subpoenaed the chief executives of five major tech companies seeking records and information on their content moderation.",
+"url": "https://www.nbcnews.com/politics/congress/house-gop-subpoenas-facebook-google-content-moderation-rcna70910",
+"urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-02/230215-jim-jordan-se-549p-0ffa8b.jpg",
+"publishedAt": "2023-02-16T00:20:56Z",
+"content": "The Republican-led House Judiciary Committee on Wednesday subpoenaed the chief executives of five major tech companies seeking records and information on their content moderation practices.\r\nChairman… [+1778 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Uxdesign.cc"
+},
+"author": "Jack Strachan",
+"title": "Thinking like a platform",
+"description": "Recently I’ve been thinking a lot about concepts for thinking. Ironic, I know. More specifically though, I’ve been thinking about the concept of ‘thinking like a platform’. Platform thinking is a…",
+"url": "https://uxdesign.cc/thinking-like-a-platform-3cf956e7c685",
+"urlToImage": "https://miro.medium.com/max/1200/1*82CJ32VfTaSyBbAu10oKGQ.png",
+"publishedAt": "2023-02-16T02:26:52Z",
+"content": "Recently Ive been thinking a lot about concepts for thinking. Ironic, I know. More specifically though, Ive been thinking about the concept of thinking like a platform.\r\nPlatform thinking is a concep… [+4259 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "forbes.com",
+"title": "Apple Delays Launch Of Mixed-Reality Headset By 2 Months, Report Says",
+"description": "Apple has pushed back the targeted launch date for a new mixed-reality headset from April to June, according to Bloomberg, in the latest setback for the tech giant, which has not launched a major new product line since the Apple Watch in 2015. Apple developer…",
+"url": "https://biztoc.com/x/e212411496877644",
+"urlToImage": "https://c.biztoc.com/p/e212411496877644/og.webp",
+"publishedAt": "2023-02-16T00:06:05Z",
+"content": "Apple has pushed back the targeted launch date for a new mixed-reality headset from April to June, according to Bloomberg, in the latest setback for the tech giant, which has not launched a major new… [+298 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "yahoo.com",
+"title": "Apple wants to move its manufacturing out of China",
+"description": "Apple supplier Foxconn announced the creation of a major new factory in Vietnam and a $300 million investment to expand its current operations in the country. The decision comes as Apple attempts to move parts of its manufacturing process out of China. The ne…",
+"url": "https://biztoc.com/x/9ec8026b3d9bb03f",
+"urlToImage": "https://c.biztoc.com/p/9ec8026b3d9bb03f/og.webp",
+"publishedAt": "2023-02-16T04:14:04Z",
+"content": "Apple supplier Foxconn announced the creation of a major new factory in Vietnam and a $300 million investment to expand its current operations in the country. The decision comes as Apple attempts to … [+292 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "scmp.com",
+"title": "Apple pushes back mixed-reality headset launch to June over hardware and software issues",
+"description": "Dan Riccio – Apple’s former hardware chief, who now helps oversee the mixed-reality project – has become increasingly involved in the endeavour in recent weeks as the company looks to resolve remaining issues, the people added. An Apple spokeswoman declined t…",
+"url": "https://biztoc.com/x/a636b417f5fb06f9",
+"urlToImage": "https://c.biztoc.com/p/a636b417f5fb06f9/og.webp",
+"publishedAt": "2023-02-16T04:10:08Z",
+"content": "Dan Riccio Apples former hardware chief, who now helps oversee the mixed-reality project has become increasingly involved in the endeavour in recent weeks as the company looks to resolve remaining is… [+282 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "apnews.com",
+"title": "Buffett's firm buys Apple, slashes chipmaker and bank stakes",
+"description": "FILE - Berkshire Hathaway Chairman and CEO Warren Buffett smiles during an interview in Omaha, Neb., May 7, 2018. Buffett's company, Berkshire Hathaway Inc., revealed several changes to its stock portfolio in documents filed with the Securities and Exchange C…",
+"url": "https://biztoc.com/x/70e826bbbd8f6929",
+"urlToImage": "https://c.biztoc.com/p/70e826bbbd8f6929/og.webp",
+"publishedAt": "2023-02-16T03:12:09Z",
+"content": "FILE - Berkshire Hathaway Chairman and CEO Warren Buffett smiles during an interview in Omaha, Neb., May 7, 2018. Buffett's company, Berkshire Hathaway Inc., revealed several changes to its stock por… [+304 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "businessinsider.com",
+"title": "China has U-turned on almost all major policies it put in place in the last 3 years",
+"description": "Chinese President Xi Jinping's regime has reversed major policies in a bid to boost growth in the world's second-largest economy. Kevin Frayer/Getty Images For the past few years, China has focused on zero-COVID, and reining in the tech and real-estate sector…",
+"url": "https://biztoc.com/x/6550fbbe3c3c4078",
+"urlToImage": "https://c.biztoc.com/p/6550fbbe3c3c4078/og.webp",
+"publishedAt": "2023-02-16T04:00:05Z",
+"content": "Chinese President Xi Jinping's regime has reversed major policies in a bid to boost growth in the world's second-largest economy.Kevin Frayer/Getty ImagesFor the past few years, China has focused on … [+303 chars]"
+}
+]
+}

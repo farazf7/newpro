@@ -1,0 +1,21 @@
+.News-Div{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    /* border: 2px solid black; */
+    justify-content: center;
+}
+.row{
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 100%;
+    height: 100vh;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    
+}
+.wid{
+    width: 350px;
+    margin-bottom: 40px;
+}
